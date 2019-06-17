@@ -1,0 +1,9 @@
+[05-Dec-2016 08:57:57 America/Chicago] PHP Fatal error:  Call to undefined function mysqlexecuta() in /home/gtafc932/public_html/sites/agendaweb/cadastro-contato.php on line 209
+[15-Dec-2016 18:42:05 America/Chicago] PHP Fatal error:  Function name must be a string in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 70
+[15-Dec-2016 18:43:52 America/Chicago] PHP Fatal error:  Call to undefined function getExtensao() in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 65
+[15-Dec-2016 18:45:05 America/Chicago] PHP Fatal error:  Function name must be a string in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 71
+[15-Dec-2016 18:45:46 America/Chicago] PHP Fatal error:  Function name must be a string in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 71
+[15-Dec-2016 18:47:12 America/Chicago] PHP Fatal error:  Call to undefined function getExtensao() in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 66
+[15-Dec-2016 18:47:35 America/Chicago] PHP Fatal error:  Call to undefined function getExtensao() in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 66
+[15-Dec-2016 18:49:14 America/Chicago] PHP Fatal error:  Function name must be a string in /home/gtafc932/public_html/sites/agendaweb/Upload.class.php on line 71
+[15-Dec-2016 18:55:13 America/Chicago] PHP Fatal error:  Call to undefined function mysqlexecuta() in /home/gtafc932/public_html/sites/agendaweb/cadastro-grupo.php on line 200
